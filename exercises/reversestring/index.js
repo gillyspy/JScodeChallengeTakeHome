@@ -8,6 +8,8 @@
 
 function reverse(str) {
 
+  const backwardStr = [...str].reverse().join('');
+  return backwardStr;
 }
 
 module.exports = reverse;
