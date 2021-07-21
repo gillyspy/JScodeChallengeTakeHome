@@ -1,3 +1,3 @@
-# AlgoCasts
+# JS interview questions
 
-Companion repo to [The Coding Inteview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
+some interview questions summarized here that i was asked about javascript in various interviews
